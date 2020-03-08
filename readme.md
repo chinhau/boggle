@@ -34,6 +34,9 @@
 4.  Create GUI
     - Original Idea: Use Steve Jobs's GIF but realize we couldn't render GIF using PyGame.
     - Stick to tkinter
+    ![Landing Page]("landing_page.png")
 
-5.  Due to time constraint: 
-    - Didn't get to implement 2 players GUI. 
+
+
+5.  Next Step: 
+    - Implement 2 players GUI. 
