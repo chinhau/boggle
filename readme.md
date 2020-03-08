@@ -34,7 +34,7 @@
 4.  Create GUI
     - Original Idea: Use Steve Jobs's GIF but realize we couldn't render GIF using PyGame.
     - Stick to tkinter
-    ![Landing Page]("landing_page.png")
+    ![Landing Page](landing_page.png)
 
 
 
